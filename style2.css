@@ -57,4 +57,17 @@
 .borderDashed { 
 border: 5px dashed black; 
 
+}.card{
+    width: 300px;
+    box-shadow: 4px 4px 12px #00000025; 
+    border-radius: 16px;
+    padding: 8px;
+    font-family: 'Inter','sans-serif';
+   
 }
+
+.card img
+    display: block;
+    width: 100%;
+}
+.card .bouton{
